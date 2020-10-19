@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This task-logger project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+```
+npx create-react-app tasks-logger --template typescript
+```
 
 ## Available Scripts
 
